@@ -1,3 +1,2 @@
-# auto-configuration
-# https://github.com/darvinmonteras-google
-# www.facebook.com/
+Google Developer Philippines
+# https://g.dev/GoogleEnginePH
